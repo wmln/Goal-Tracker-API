@@ -21,7 +21,7 @@ The Goal Tracker API allows users to:
 ## 📚 Key Endpoints
 
 ### Status
-- `GET /api/v1/status` – Check API status (UP/DOWN)
+- `GET /api/v1/status` – Check API status (OPERATIONAL/OUTAGE)
 
 ### User Authentication & Profile
 - `POST /api/v1/auth/register` – Register a new user
